@@ -1,0 +1,7 @@
+:root {
+  --blue: #2b2570;
+  --cyan: #1dffc2;
+  --grey: #e4e4e4;
+  color: var(--blue);
+  font-size: 20px;
+}
